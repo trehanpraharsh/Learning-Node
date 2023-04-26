@@ -1,0 +1,1 @@
+This is the result file created using 'writeFileSync' and it also has the content of the first : Hello, this is the first text file. and the second : Hello, this is the second text file. file
